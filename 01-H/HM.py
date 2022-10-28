@@ -1,1 +1,6 @@
+# comentario 
+"""
+
+comentarios
+"""
 print("TEXTO")
